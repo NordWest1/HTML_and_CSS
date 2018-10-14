@@ -1,5 +1,10 @@
 h1 {
     color: deepskyblue;
-    text-align: center;
-
+    text-align: right;
+    margin: 0;
+}
+p {
+    color: #999999;
+    background-color: rgb(255,0,0);
+    
 }
